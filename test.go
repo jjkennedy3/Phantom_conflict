@@ -8,7 +8,6 @@ a
 go
 file
 
-Add
 another
 few
 lines
